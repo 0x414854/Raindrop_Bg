@@ -21,7 +21,7 @@ No specific prerequisites are required to run this project.<br>A modern web brow
 2. Open the ***index.html*** file in your web browser.
 
 ## **Usage Examples**
-Open ***index.html*** in your browser, and you will see the Matrix rain simulation immediately start on the canvas.<br>The animation adapts to different window sizes dynamically.
+Open ***index.html*** in your browser, and you will see the Rain drop simulation immediately start on the canvas.<br>The animation adapts to different window sizes dynamically.
 
 ## **Tree Directory**
 
